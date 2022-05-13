@@ -4,7 +4,7 @@
   <div display="inline-block">
     <p align="left"> :flying_saucer: Faço parte do time de desenvolvimento Front-End na <a href="https://melhorenvio.com.br//">Melhor Envio</a>;</p>
     <p align="left"> :flying_saucer::orange_book: Tenho aprofundado os estudos no framework Vue.js e um pouquinho de Python e estrutura de dados;</p>
-    <p align="left"> :flying_saucer:🎮  Nas horas vagas gosto de gastar meu tempo com Wowzin rsrs;</p>
+    
   </div>
  </div>
 
