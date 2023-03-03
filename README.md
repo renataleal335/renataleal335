@@ -21,24 +21,4 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" width="40" height="40"/>
   
-  </div>
-  
-
-
-
-
-
-
-### Informações sobre meu Github
-
-<section>
-<a href="https://github.com/renataleal335">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renataleal335&layout=compact&langs_count=7&theme=merko"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=renataleal335&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  
-</section>
- 
-
-
-
-
+  </div
